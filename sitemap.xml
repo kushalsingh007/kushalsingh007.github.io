@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kushalsingh007.github.io/posts/helloworld/</loc>
+    <loc>https://kushalsingh007.github.io/posts/helloworld/</loc>
     <lastmod>2018-06-03T18:02:54+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://kushalsingh007.github.io/categories/</loc>
+    <loc>https://kushalsingh007.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kushalsingh007.github.io/</loc>
-    <lastmod>2018-06-03T18:02:54+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kushalsingh007.github.io/posts/</loc>
+    <loc>https://kushalsingh007.github.io/</loc>
     <lastmod>2018-06-03T18:02:54+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kushalsingh007.github.io/tags/</loc>
+    <loc>https://kushalsingh007.github.io/posts/</loc>
+    <lastmod>2018-06-03T18:02:54+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kushalsingh007.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
