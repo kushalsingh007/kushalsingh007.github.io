@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Error and Trial</title>
+    <title>Error/Trial</title>
     <link>https://kushalsingh007.github.io/</link>
-    <description>Recent content on Error and Trial</description>
+    <description>Recent content on Error/Trial</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 03 Jun 2018 18:02:54 +0530</lastBuildDate>
     
 	<atom:link href="https://kushalsingh007.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,6 +18,16 @@
       
       <guid>https://kushalsingh007.github.io/posts/helloworld/</guid>
       <description>Hello-World !</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://kushalsingh007.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://kushalsingh007.github.io/about/</guid>
+      <description>Hello World !
+(More to be updated later)</description>
     </item>
     
   </channel>
